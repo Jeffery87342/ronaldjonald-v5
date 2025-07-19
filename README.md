@@ -49,7 +49,7 @@ Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/t
 ```
 git clone https://github.com/DogeNetwork/v4
 cd v4
-npm install
+npm intall
 npm start
 ```
 Or simply run the [`install.sh`](install.sh) file
